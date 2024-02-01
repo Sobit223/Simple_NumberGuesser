@@ -1,0 +1,47 @@
+body{
+    background-color: antiquewhite;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    border:solid black 5px;
+    background-color: aqua;
+    color:red;
+}
+
+.input{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.response{
+    color:red;
+}
+
+.span{
+    height: 50px;
+    width: 100px;
+    border: solid black 5px;
+    display:block;
+    
+}
+
+.color{
+    display: inline-block;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color:green;
+}
+
+#black{
+    background-color: black;
+}
+#yellow{
+    background-color: yellow;
+}
